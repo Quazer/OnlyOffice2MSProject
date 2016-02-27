@@ -1,7 +1,7 @@
 OnlyOffice2MSProject
 ====================
 
-Simple import OnlyOffice projects to Microsoft Office
+Simple import OnlyOffice projects to Microsoft Project
 
 Features
 --------
