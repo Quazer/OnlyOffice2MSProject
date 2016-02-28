@@ -3,6 +3,8 @@ OnlyOffice2MSProject
 
 Simple import OnlyOffice projects to Microsoft Project
 
+Binary https://bitbucket.org/quazer-ru/onlyoffice2msproject/downloads/OnlyOffice2MSProject.exe
+
 Features
 --------
 
